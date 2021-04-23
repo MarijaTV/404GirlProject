@@ -13,6 +13,10 @@ main {
     margin margin-right: calc((100% - 600px) / 2);
 
 }
-main {
-    width: 400px;
+.small-image {
+    height: 160px;
+
+}
+.Large {
+    height: 160px;
 }
