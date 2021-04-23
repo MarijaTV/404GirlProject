@@ -1,0 +1,18 @@
+header{
+    background-color: yellow;
+    display: inline-block;
+    width: 600px;
+    margin-left: calc((100% - 600px) / 2);
+}
+
+main {
+    background-color: yellowgreen;
+    display: inline-block;
+    width: 600px;
+    margin-left: calc((100% - 600px) / 2);
+    margin margin-right: calc((100% - 600px) / 2);
+
+}
+main {
+    width: 400px;
+}
